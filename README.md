@@ -8,7 +8,7 @@ Estou apenas começando e tenho disposição para o aprimoramento e desenvolvime
 ## 🌱 Tecnologias e Ferramentas
 - **Linguagens de Programação**: C#, Java
 <!-- - **Frameworks**: React Native -->
-- **Ferramentas**: Git, Visual Studio, Visual Studio Code
+- **Ferramentas**: Git, Visual Studio, Visual Studio Code e IntelliJ
   
 ## 📫 Como me encontrar
 - **Email**: tanielemadu@gmail.com
